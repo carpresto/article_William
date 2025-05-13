@@ -1,4 +1,5 @@
 #Methods
 ##experiment A
-##experiment B
-EXPLAnataion on ex b
+##other experiments
+Explanation on experiment B and C 
+
